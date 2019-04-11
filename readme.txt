@@ -1,25 +1,25 @@
-# µ¥ÀÌÅÍ ºÐ¼®À» À§ÇÑ ÆÄÀÌ½ã Ã¶Àú ÀÔ¹®
+# ë°ì´í„° ë¶„ì„ì„ ìœ„í•œ íŒŒì´ì¬ ì² ì € ìž…ë¬¸
 
-- ¾ÐÃà ÆÄÀÏ(zip ÆÄÀÏ) ´Ù¿î·Îµå: https://github.com/wikibook/python-for-data-analysis/archive/master.zip
-  - ¾ÐÃà ÆÄÀÏÀ» ´Ù¿î·Îµå ¹Þ°í ¾ÐÃàÀ» Ç±´Ï´Ù.
+- ì••ì¶• íŒŒì¼(zip íŒŒì¼) ë‹¤ìš´ë¡œë“œ: https://github.com/wikibook/python-for-data-analysis-rev/archive/master.zip
+  - ì••ì¶• íŒŒì¼ì„ ë‹¤ìš´ë¡œë“œ ë°›ê³  ì••ì¶•ì„ í’‰ë‹ˆë‹¤.
   
-- ¼Ò½º ÄÚµå À§Ä¡: /notebook Æú´õ
-  - notebook Æú´õ¿¡´Â ÀÌ Ã¥¿¡¼­ »ç¿ëÇÑ ÄÚµå°¡ ³ëÆ®ºÏ ÆÄÀÏ(*.ipynb)·Î ÀÖ½À´Ï´Ù.
-  - 3Àå(Chapter_03)¿¡¼­ ~ 16Àå(Chapter_16)±îÁöÀÇ ÄÚµå°¡ µé¾îÀÖ½À´Ï´Ù.
-- µ¥ÀÌÅÍ ÆÄÀÏ À§Ä¡: /data Æú´õ
-  - data Æú´õ¿¡´Â ÀÌ Ã¥ÀÇ ÄÚµå¿¡¼­ »ç¿ëÇÑ µ¥ÀÌÅÍ ÆÄÀÏÀÌ ÀÖ½À´Ï´Ù.
-  - ´Ù¿î·Îµå ¹ÞÀº data Æú´õ ³»ÀÇ ÆÄÀÏÀº ÀÚ½ÅÀÌ ÀÌ¿ëÇÏ´Â ÀÛ¾÷ Æú´õ ³»ÀÇ data Æú´õ(¿©±â¼­´Â C:\myPyCode\data)¿¡ º¹»çÇØ¼­ ÀÌ¿ëÇÏ¸é µË´Ï´Ù.
+- ì†ŒìŠ¤ ì½”ë“œ ìœ„ì¹˜: /notebook í´ë”
+  - notebook í´ë”ì—ëŠ” ì´ ì±…ì—ì„œ ì‚¬ìš©í•œ ì½”ë“œê°€ ë…¸íŠ¸ë¶ íŒŒì¼(*.ipynb)ë¡œ ìžˆìŠµë‹ˆë‹¤.
+  - 3ìž¥(Chapter_03)ì—ì„œ ~ 16ìž¥(Chapter_16)ê¹Œì§€ì˜ ì½”ë“œê°€ ë“¤ì–´ìžˆìŠµë‹ˆë‹¤.
+- ë°ì´í„° íŒŒì¼ ìœ„ì¹˜: /data í´ë”
+  - data í´ë”ì—ëŠ” ì´ ì±…ì˜ ì½”ë“œì—ì„œ ì‚¬ìš©í•œ ë°ì´í„° íŒŒì¼ì´ ìžˆìŠµë‹ˆë‹¤.
+  - ë‹¤ìš´ë¡œë“œ ë°›ì€ data í´ë” ë‚´ì˜ íŒŒì¼ì€ ìžì‹ ì´ ì´ìš©í•˜ëŠ” ìž‘ì—… í´ë” ë‚´ì˜ data í´ë”(ì—¬ê¸°ì„œëŠ” C:\myPyCode\data)ì— ë³µì‚¬í•´ì„œ ì´ìš©í•˜ë©´ ë©ë‹ˆë‹¤.
 
-- ÁÖÇÇÅÍ ³ëÆ®ºÏ Ã¶Ä¡ ¹× »ç¿ë ¹æ¹ý
-  - ÀÌ Ã¥ 2ÀåÀÇ ³»¿ëÀ» Âü°íÇÏ¼¼¿ä.
+- ì£¼í”¼í„° ë…¸íŠ¸ë¶ ì² ì¹˜ ë° ì‚¬ìš© ë°©ë²•
+  - ì´ ì±… 2ìž¥ì˜ ë‚´ìš©ì„ ì°¸ê³ í•˜ì„¸ìš”.
 
-- ³ëÆ®ºÏ È°¿ë ¹æ¹ý
-  1. notebook Æú´õ¿¡ ÀÖ´Â ³ëÆ®ºÏ ÆÄÀÏÀ» ÀÚ½ÅÀÇ ÀÛ¾÷ Æú´õ(¿©±â¼­´Â C:\myPyCode)¿¡ º¹»çÇÕ´Ï´Ù.
-  2. Anaconda Prompt¸¦ ½ÇÇàÇØ¼­ ÀÛ¾÷ Æú´õ·Î ÀÌµ¿(¸¸¾à ÀÛ¾÷ Æú´õ°¡ C:\myPyCode¶ó¸é 'cd C:\myPyCode')ÇÕ´Ï´Ù.
-  3. ¸í·ÉÃ¢¿¡ 'jupyter notebook'À» ÀÔ·ÂÇÕ´Ï´Ù.
-  4. ´Ù¿î·Îµå ¹ÞÀº ³ëÆ®ºÏ ÆÄÀÏÀÌ º¸ÀÌ´Âµ¥ ÇÊ¿äÇÑ Àå(Chapter)ÀÇ ³ëÆ®ºÏÀ» Å¬¸¯ÇÏ¸é ÇØ´ç ³ëÆ®ºÏÀÌ ¿­¸³´Ï´Ù.
-  5. ÄÚµå ¼¿¿¡ ÀÖ´Â ÄÚµå¸¦ Á÷Á¢ ½ÇÇàÇØµµ µÇ°í, ÀÚ½ÅÀÌ ¸¸µç ³ëÆ®ºÏ¿¡ ÇØ´ç ÄÚµå¸¦ º¹»çÇÑ ÈÄ ½ÇÇàÇØµµ µË´Ï´Ù.
+- ë…¸íŠ¸ë¶ í™œìš© ë°©ë²•
+  1. notebook í´ë”ì— ìžˆëŠ” ë…¸íŠ¸ë¶ íŒŒì¼ì„ ìžì‹ ì˜ ìž‘ì—… í´ë”(ì—¬ê¸°ì„œëŠ” C:\myPyCode)ì— ë³µì‚¬í•©ë‹ˆë‹¤.
+  2. Anaconda Promptë¥¼ ì‹¤í–‰í•´ì„œ ìž‘ì—… í´ë”ë¡œ ì´ë™(ë§Œì•½ ìž‘ì—… í´ë”ê°€ C:\myPyCodeë¼ë©´ 'cd C:\myPyCode')í•©ë‹ˆë‹¤.
+  3. ëª…ë ¹ì°½ì— 'jupyter notebook'ì„ ìž…ë ¥í•©ë‹ˆë‹¤.
+  4. ë‹¤ìš´ë¡œë“œ ë°›ì€ ë…¸íŠ¸ë¶ íŒŒì¼ì´ ë³´ì´ëŠ”ë° í•„ìš”í•œ ìž¥(Chapter)ì˜ ë…¸íŠ¸ë¶ì„ í´ë¦­í•˜ë©´ í•´ë‹¹ ë…¸íŠ¸ë¶ì´ ì—´ë¦½ë‹ˆë‹¤.
+  5. ì½”ë“œ ì…€ì— ìžˆëŠ” ì½”ë“œë¥¼ ì§ì ‘ ì‹¤í–‰í•´ë„ ë˜ê³ , ìžì‹ ì´ ë§Œë“  ë…¸íŠ¸ë¶ì— í•´ë‹¹ ì½”ë“œë¥¼ ë³µì‚¬í•œ í›„ ì‹¤í–‰í•´ë„ ë©ë‹ˆë‹¤.
   
-- ³ëÆ®ºÏ¿¡¼­ ÄÚµå Ã£±â
-  - ³ëÆ®ºÏÀÇ ÄÚµå ¼¿ À§¿¡ ÄÚµå°¡ ÀÖ´Â Ã¥ÀÇ Àå°ú ÆäÀÌÁö¸¦ Ç¥½ÃÇß½À´Ï´Ù.
-  - Ã¥ÀÇ Àå°ú ÆäÀÌÁö Ç¥½Ã ¿¹: [3Àå: 30ÆäÀÌÁö]
+- ë…¸íŠ¸ë¶ì—ì„œ ì½”ë“œ ì°¾ê¸°
+  - ë…¸íŠ¸ë¶ì˜ ì½”ë“œ ì…€ ìœ„ì— ì½”ë“œê°€ ìžˆëŠ” ì±…ì˜ ìž¥ê³¼ íŽ˜ì´ì§€ë¥¼ í‘œì‹œí–ˆìŠµë‹ˆë‹¤.
+  - ì±…ì˜ ìž¥ê³¼ íŽ˜ì´ì§€ í‘œì‹œ ì˜ˆ: [3ìž¥: 30íŽ˜ì´ì§€]
