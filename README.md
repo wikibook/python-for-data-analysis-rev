@@ -1,6 +1,6 @@
 # 데이터 분석을 위한 파이썬 철저 입문
 
-- 압축 파일(zip 파일) 다운로드: https://github.com/wikibook/python-for-data-analysis/archive/master.zip
+- 압축 파일(zip 파일) 다운로드: https://github.com/wikibook/python-for-data-analysis-rev/archive/master.zip
   - 압축 파일을 다운로드 받고 압축을 풉니다.
 
 - 소스 코드 위치: /notebook 폴더
