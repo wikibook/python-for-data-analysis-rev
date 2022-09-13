@@ -23,3 +23,9 @@
 - 노트북에서 코드 찾기
   - 노트북의 코드 셀 위에 코드가 있는 책의 장과 페이지를 표시했습니다.
   - 책의 장과 페이지 표시 예: [3장: 30페이지]
+
+- 14장 '웹 스크레이핑' 내용 변경(421~425쪽)
+
+  웹 사이트 순위를 제공하던 알렉사가 2022년 5월 이후로 서비스를 중단함으로써 [네이버 영화](https://movie.naver.com/) 페이지의 '영화 순위' 정보를 스크레이핑하는 내용으로 변경합니다.
+
+  - [PDF 파일 다운로드 - python-for-data-analysis-movie-ranking.pdf](https://github.com/wikibook/python-for-data-analysis-rev/blob/master/python-for-data-analysis-movie-ranking.pdf)
