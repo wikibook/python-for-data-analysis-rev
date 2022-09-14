@@ -1,4 +1,8 @@
-# 데이터 분석을 위한 파이썬 철저 입문
+# 데이터 분석을 위한 파이썬 철저 입문 (개정증보판)
+
+- 책 소개: https://wikibook.co.kr/python-for-data-analysis-rev/
+
+![book_cover_image](cover.jpg)
 
 - 압축 파일(zip 파일) 다운로드: https://github.com/wikibook/python-for-data-analysis-rev/archive/master.zip
   - 압축 파일을 다운로드 받고 압축을 풉니다.
